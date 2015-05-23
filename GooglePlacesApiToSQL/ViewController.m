@@ -26,7 +26,7 @@
 //                                                                              //
 //******************************************************************************//
 
-#define URL @"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=5000&key=AIzaSyDXFEXbRnvRwFZOgPbUmQ4JfM1nJI_MFHo&type=restaurant|night_club|bar"
+#define URL @"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=5000&key=YOUR_API_KEY&type=restaurant|night_club|bar"
 
 
 @interface ViewController ()
